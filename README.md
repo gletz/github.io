@@ -4,5 +4,8 @@ github.io
 
 This page was published with github's autogenerator. The autogenerator is a page of instructions and buttons, in a step-by-step wizard format, that show you how to publish a github page. But the instructions end up being the page you generate. It's OK. I guess the idea is now to change it. 
 
+##Background##
+I'm a designer who began as a graphic designer with a BFA from UW when it was a five-year program and there was no such thing as desktop publishing, let alone the internet.
+
 http://gletz.github.io/github.io/
 
