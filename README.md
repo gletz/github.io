@@ -11,7 +11,9 @@ After a brief period doing traditional print design in Dallas and New Mexico, I 
 
 In 1995, I returned to Seattle to accept a job offer from Microsoft, where I worked for seven years, most of them as a product designer in the Office group. Working at Microsoft was a soul sucking experience. While it was a dream to work on products used by millions of people every day, the reality was that those same millions of users made Microsoft paralyzed to design anything new by a combination of fear and complacency. After seven years of disillusionment I simply had to leave. So I resigned. As it turned out, that was the end of the first round of my design career. 
 
-After Microsoft I just needed time to get my feet back on the ground. So I checked out for a while. I bought a small business and ran it, again, for seven years, until I sold it in 2010.   
+After Microsoft I just needed time to get my feet back on the ground. So I checked out for a while. I bought a small business and ran it, again, for seven years, until I sold it in 2010. 
+
+Now I'm trying to start the second round of my design career: I'll call it GLetzDesign 2.0. Maybe that's what this project is. There've been other projects, and this isn't my first effort at GLetzDesign 2.0 (see [GLetzDesign: 21 Projects] (www.gletzdesign.com)). 
 
 http://gletz.github.io/github.io/
 
