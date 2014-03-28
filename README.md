@@ -13,7 +13,7 @@ In 1995, I returned to Seattle to accept a job offer from Microsoft, where I wor
 
 After Microsoft I just needed time to get my feet back on the ground. So I checked out for a while. I bought a small business and ran it, again, for seven years, until I sold it in 2010. 
 
-Now I'm trying to start the second round of my design career: I'll call it GLetzDesign 2.0. Maybe that's what this project is. There've been other projects, and this isn't my first effort at GLetzDesign 2.0 (see [GLetzDesign: 21 Projects] (www.gletzdesign.com)). 
+Now I'm trying to start the second round of my design career: I'll call it GLetzDesign 2.0. Maybe that's what this project is. There've been other projects, and this isn't my first effort at GLetzDesign 2.0 (see [GLetzDesign: 21 Projects](http://www.gletzdesign.com/)). 
 
 http://gletz.github.io/github.io/
 
