@@ -5,7 +5,11 @@ github.io
 This page was published with github's autogenerator. The autogenerator is a page of instructions and buttons, in a step-by-step wizard format, that show you how to publish a github page. But the instructions end up being the page you generate. It's OK. I guess the idea is now to change it. 
 
 ###Background###
-I began my career as a graphic designer at a time when there was no such thing as desktop publishing, let alone cell phones, tablets, or even the internet. I graduated from the UW in Seattle with a BFA in graphic design. It was a five-year program based on Swiss style design as taught at Basel and Yale. I had come to UW after nearly four years of university studies in Montana, split almost evenly between chemical engineering and fine art, with a smattering of anthropology, psychology, linguistics, and philosophy. All told, it took me seven years.
+I began my career as a graphic designer at a time when there was no such thing as desktop publishing, let alone cell phones, tablets, or even the internet. 
+
+```
+<div>I graduated from the UW in Seattle with a BFA in graphic design. It was a five-year program based on Swiss style design as taught at Basel and Yale. I had come to UW after nearly four years of university studies in Montana, split almost evenly between chemical engineering and fine art, with a smattering of anthropology, psychology, linguistics, and philosophy. All told, it took me seven years.</div>
+```
 
 After a brief period doing traditional print design in Dallas and New Mexico, I was lucky enough to find my way to San Francisco at a time when design and computers were about to converge. Many designers fell out of the field because of this convergence, but for me it was a catalyst. Where before there had been a premium on how well you could draw, now there was a premium on how well you could think. In short, I worked for some prestigious firms on some prestigious projects and went from being a graphic designer to a user-interface designer, an information designer, and a product designer.  
 
