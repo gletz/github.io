@@ -8,7 +8,7 @@ This page was published with github's autogenerator. The autogenerator is a page
 I began my career as a graphic designer at a time when there was no such thing as desktop publishing, let alone cell phones, tablets, or even the internet. 
 
 
-<div style="width: 300px">
+<div style="color: red">
 I graduated from the UW in Seattle with a BFA in graphic design. It was a five-year program based on Swiss style design as taught at Basel and Yale. I had come to UW after nearly four years of university studies in Montana, split almost evenly between chemical engineering and fine art, with a smattering of anthropology, psychology, linguistics, and philosophy. All told, it took me seven years.
 </div>
 
