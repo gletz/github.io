@@ -25,7 +25,7 @@ I have a project I've worked on that became more than a portfolio piece, and is 
 
 Starting that private project might be getting ahead of myself though. First I need to find a place and a process for creating and displaying new work. I realize GitHub is intended for developers to share code projects, but it seems that it should work well for sharing design work also. As a designer who does some coding and wants to do more, it just feels comfortable (so far). Actually making it work will be an ongoing project, but GitHub feels right for that, too.
 
-So I plan to put up a lot of work in a lot of projects and let it speak for itself. Maybe I've finally met my muse.
+So I plan to put up a lot of work in a lot of projects and let it speak for itself. Maybe I've finally met my muse. Or maybe I should say met my medium. And maybe McLuhan should have said the medium is the muse, not the message. 
 
 
 http://gletz.github.io/github.io/
