@@ -5,7 +5,7 @@ github.io
 This page was published with github's autogenerator. The autogenerator is a page of instructions and buttons, in a step-by-step wizard format, that show you how to publish a github page. But the instructions end up being the page you generate. It's OK. I guess the idea is now to change it. 
 
 ###Background###
-I graduated from the UW in Seattle with a BFA in graphic design. I began my career as a graphic designer in the 1980s, when most computers were giant mainframes instead of phones and tablets. After a brief period doing traditional print design in Dallas and New Mexico, I found my way to San Francisco just as design and computers were about to converge. I was in the right place at the right time.
+I began my career as a graphic designer in the 1980s, when most computers were giant mainframes instead of phones and tablets. After a brief period doing traditional print design in Dallas and New Mexico, I found my way to San Francisco just as design and computers were about to converge. I was in the right place at the right time.
 
 In 1995, I returned to Seattle to accept a job offer from Microsoft, where I worked for seven years, most of them as a product designer in the Office group. 
 
@@ -21,7 +21,7 @@ I've recently become more excited about writing code than I've ever been. I'm no
 
 Even as a non-developer I soon became intrigued with GitHub for both its private and public projects. 
 
-I have a project I've worked on that became more than a portfolio piece, and is an idea for a start-up. I've been stymied on it since it got to that point because I won't be able to develop it much further by myself. I've also been puzzling over how to present it securely to potential partners with the necessary licensing and IP protection, as well as a process to facilitate team-building and collaboration. After a little research, it seems GitHub may be the perfect place for that sort of thing. 
+I have a project I've worked on that evolved into more than a portfolio piece, and is now an idea for a start-up. I've been stymied on it since it got to that point because I won't be able to develop it much further by myself. I've also been puzzling over how to present it securely to potential partners with the necessary licensing and IP protection, as well as a process to facilitate team-building and collaboration. After a little research, it seems GitHub may be the perfect place for that sort of thing. 
 
 Starting that private project might be getting ahead of myself though. First I need to find a place and a process for creating and displaying new work. I realize GitHub is intended for developers to share code projects, but it seems that it should work well for sharing design projects also. As a designer who does some coding and wants to do more, it just feels comfortable (so far). Actually making it work will be an ongoing project, but GitHub feels right for that, too.
 
